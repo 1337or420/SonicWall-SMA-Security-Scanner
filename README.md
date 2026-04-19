@@ -58,7 +58,7 @@ SonicWall SMA Security Scanner - это многопоточный сканер 
 ```bash
 # Клонирование репозитория
 git clone https://github.com/1337or420/SonicWall-SMA-Security-Scanner.git
-cd sonicwall-scanner
+cd SonicWall-SMA-Security-Scanner
 
 # Инициализация модуля Go
 go mod init sonicwall-scanner
@@ -96,7 +96,7 @@ GOOS=darwin GOARCH=arm64 go build -o sonicwall-scanner-mac-arm main.go
 ### Режим Web UI (по умолчанию)
 
 ```bash
-./sonicwall-scanner
+./SonicWall-SMA-Security-Scanner
 ```
 
 После запуска:
