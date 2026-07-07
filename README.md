@@ -422,9 +422,7 @@ sonicwall-scanner/
 
 ## 📞 Контакты
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/sonicwall-scanner/issues)
-- **Email:** security@example.com
-- **Twitter:** @security_researcher
+- **Telegram:** https://t.me/what_time_is_it_1337_or_420
 
 ---
 
